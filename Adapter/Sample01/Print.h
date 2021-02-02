@@ -2,6 +2,6 @@
 
 class Print {
    public:
-    virtual void printWeak() = 0;
-    virtual void printStrong() = 0;
+    virtual void PrintWeak() = 0;
+    virtual void PrintStrong() = 0;
 };
