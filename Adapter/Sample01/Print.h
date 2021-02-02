@@ -1,7 +1,7 @@
 #pragma once
 
 class Print {
-   public:
+public:
     virtual void PrintWeak() = 0;
     virtual void PrintStrong() = 0;
 };
